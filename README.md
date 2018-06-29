@@ -6,7 +6,7 @@
 ### Agenda for today
 - [x] Create a GitHub Account
 - [ ] Learn to use repositories
-- [ ] Use Jupyter notebook
+- [ ] Use **Jupyter** notebook
 
 Learning to use GitHub etc. 
 ```python
